@@ -26,10 +26,13 @@ Supports decision-making in:
 ## Key Visuals
 
 ### KPI Overview
-![KPI](kpi_dashboard.png)
+![KPI](Ecom_KPI.png)
 
 ### Sales Trend Over Time
-![Sales Trend](sales_trend.png)
+![Sales Trend](Sales.png)
 
-### Top Performing Products
-![Top Products](top_products.png)
+### Sales by Country
+![Top Products](Sales_by_country.png)
+
+### Sales by Weekday
+![Day of the week performance](Sales_by_weekday.png)
